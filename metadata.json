@@ -1,0 +1,7 @@
+{
+  "name": "SmartSpend",
+  "description": "An intelligent expense tracker that uses Gemini AI to analyze spending habits, provide financial insights, and allow natural language expense logging.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
